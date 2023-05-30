@@ -8,11 +8,11 @@ Course Link: https://www.coursera.org/professional-certificates/tensorflow-in-pr
 
 Programming Assignments
 
-## Course 1: Introduction to TensorFlow for AI, ML and DL
+# Course 1: Introduction to TensorFlow for AI, ML and DL
 
-## Course 2: Convolutional Neural Networks in TensorFlow
+# Course 2: Convolutional Neural Networks in TensorFlow
 
-## Course 3: Natural Language Processing in TensorFlow
+# Course 3: Natural Language Processing in TensorFlow
 
-## Course 4: Sequences, Time Series, and Prediction
+# Course 4: Sequences, Time Series, and Prediction
 
